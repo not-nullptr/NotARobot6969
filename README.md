@@ -6,7 +6,7 @@ I'm a developer who enjoys tinkering around with other people's sources, or just
 
 
 
-- 🔭 I’m currently working on a Fortnite hybrid server.
-- 🌱 I’m currently learning C#
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on Project Era.
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: He / They
 - ⚡ Fun fact: I've been coding since I was 4 (HTML 'n CSS).
